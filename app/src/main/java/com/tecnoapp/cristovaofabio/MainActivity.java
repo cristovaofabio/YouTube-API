@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String GOOGLE_API_KEY="AIzaSyDbJvStc3bg_-ndZYkOYP8KIcjpEcw5tHs";
+    private static final String GOOGLE_API_KEY="";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
